@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name= "dec_bin_converter"
+name= "dec2bin_converter"
 version = "0.1.0"
 authors = [
   { name="Virendra Singh Kaira", email="virendra513info@gmail.com" },

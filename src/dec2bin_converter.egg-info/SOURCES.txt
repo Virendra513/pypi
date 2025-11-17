@@ -1,0 +1,11 @@
+LICENSE
+pyproject.toml
+readme.md
+src/__init__.py
+src/dec2bin_converter/__init__.py
+src/dec2bin_converter/converter.py
+src/dec2bin_converter.egg-info/PKG-INFO
+src/dec2bin_converter.egg-info/SOURCES.txt
+src/dec2bin_converter.egg-info/dependency_links.txt
+src/dec2bin_converter.egg-info/top_level.txt
+tests/test_converter.py

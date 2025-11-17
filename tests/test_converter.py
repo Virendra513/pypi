@@ -1,5 +1,5 @@
 import pytest
-from src.dec_bin_converter.converter import decimal_to_binary, binary_to_decimal
+from src.dec2bin_converter.converter import decimal_to_binary, binary_to_decimal
 
 
 def test_decimal_to_binary():

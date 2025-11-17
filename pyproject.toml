@@ -18,9 +18,9 @@ classifiers = [
     "Operating System :: OS Independent",
 ]
 license = "MIT"
-license-files = {file ="LICENSE"}
+license-files = ["LICEN[CS]E*"]
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/pypa/sampleproject"
-Issues = "https://github.com/pypa/sampleproject/issues"
+Homepage = "https://github.com/Virendra513/pypi"
+Issues = "https://github.com/Virendra513/pypi/issues"

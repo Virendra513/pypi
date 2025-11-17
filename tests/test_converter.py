@@ -18,8 +18,8 @@ def test_invalid_inputs():
     with pytest.raises(ValueError):
         binary_to_decimal("1021")  
 
-print(test_decimal_to_binary())
+#print(test_decimal_to_binary())
 
-print(test_binary_to_decimal())
+#print(test_binary_to_decimal())
 
-print(test_invalid_inputs())
+#print(test_invalid_inputs())

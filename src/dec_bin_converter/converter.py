@@ -10,5 +10,5 @@ def binary_to_decimal(binary_str: str)-> int:
         raise ValueError("Input must be an binary")
     return int(binary_str, 2)
 
-print(decimal_to_binary(10))
-print(binary_to_decimal("1010"))
+#print(decimal_to_binary(10))
+#print(binary_to_decimal("1010"))

@@ -1,0 +1,21 @@
+Metadata-Version: 2.4
+Name: dec_bin_converter
+Version: 0.1.0
+Summary: This is the decimal_binary_converter.
+Author-email: Virendra Singh Kaira <virendra513info@gmail.com>
+License-Expression: MIT
+Project-URL: Homepage, https://github.com/Virendra513/pypi
+Project-URL: Issues, https://github.com/Virendra513/pypi/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.9
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: license-file
+
+# Decimal Binary Converter 
+A simple PYthon package to convert decimal numbers to binary and vice versa.
+
+
+# Installation 
+pip install decimal_binary converter
